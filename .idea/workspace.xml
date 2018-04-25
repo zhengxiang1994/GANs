@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9387285-4d63-4f78-9369-da9bef7326dc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cgan/out/000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/out/058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cgan/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/cgan/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,8 +22,8 @@
       <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cgan/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1995">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            <state relative-caret-position="1083">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -115,7 +58,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1604" />
     <option name="height" value="876" />
@@ -128,6 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,7 +93,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,13 +206,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -294,6 +238,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cgan/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gan/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1995">
@@ -356,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gan/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="112" column="38" lean-forward="true" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+        <state relative-caret-position="1722">
+          <caret line="91" column="69" selection-start-line="91" selection-start-column="69" selection-end-line="91" selection-end-column="69" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -366,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cgan/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        <state relative-caret-position="1083">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
