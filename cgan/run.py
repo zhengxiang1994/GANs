@@ -121,7 +121,6 @@ if __name__ == "__main__":
             fig = plot(samples)
             plt.savefig('out/{}.png'.format(str(i).zfill(3)), bbox_inches='tight')
             i += 1
-            plt.close(fig)
 
         X_mb, y_mb = mnist.train.next_batch(mb_size)
 
